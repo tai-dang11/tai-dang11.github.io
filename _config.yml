@@ -211,6 +211,7 @@ exclude:
   - _pages/dropdown.md  # This removes the "Submenus" tab
   - _pages/projects.md
   - _pages/repositories.md
+  - _pages/cv.md
 keep_files:
   - CNAME
   - .nojekyll
