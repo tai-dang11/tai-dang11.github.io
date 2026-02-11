@@ -138,11 +138,18 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=StnqavEAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/tai-dang11/", "_blank");
+          window.open("https://github.com/tai-dang11", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/tai-dang11", "_blank");
         },
       },{
       id: 'light-theme',
