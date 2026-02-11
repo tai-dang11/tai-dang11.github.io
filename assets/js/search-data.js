@@ -142,7 +142,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://tai-dang11.github.io", "_blank");
+          window.open("https://www.linkedin.com/in/tai-dang11/", "_blank");
         },
       },{
       id: 'light-theme',
