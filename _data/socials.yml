@@ -17,13 +17,9 @@ scholar_userid: StnqavEAAAAJ # your Google Scholar ID
 
 custom_social:
   title: GitHub
-  logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
+  icon: fab fa-github
   url: https://github.com/tai-dang11
 
   title: LinkedIn
   logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg
   url: https://www.linkedin.com/in/tai-dang11/
-
-  title: Website
-  logo: https://cdn-icons-png.flaticon.com/512/535/535239.png
-  url: https://tai-dang11.github.io
