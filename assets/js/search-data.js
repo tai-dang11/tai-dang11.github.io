@@ -145,11 +145,11 @@ ninja.data = [{
           window.open("https://github.com/tai-dang11", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
+        id: 'social-custom_social',
+        title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/tai-dang11", "_blank");
+          window.open("https://www.linkedin.com/in/tai-dang11/", "_blank");
         },
       },{
       id: 'light-theme',
