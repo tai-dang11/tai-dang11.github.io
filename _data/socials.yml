@@ -15,8 +15,8 @@ github_username: tai-dang11
 #   title: Custom Social
 #   url: https://www.alberteinstein.com/
 custom_social:
+  logo: fab fa-linkedin
   title: LinkedIn
-  icon: fa-brands fa-linkedin
   url: https://www.linkedin.com/in/tai-dang11/
 
   # title: GitHub
