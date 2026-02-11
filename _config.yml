@@ -207,7 +207,7 @@ exclude:
   - _pages/blog.md
   - _posts/
   - _pages/teaching.md # Assuming your teaching page is named this
-  - _pages/people.md # Assuming your people page is named this
+  - _pages/profiles.md # Assuming your people page is named this
   - _pages/dropdown.md # This removes the "Submenus" tab
   - _pages/projects.md
   - _pages/repositories.md
