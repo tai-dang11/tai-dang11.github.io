@@ -2,33 +2,71 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Tai
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false # includes a list of news items
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# Tai Dang
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a researcher working on **Generative Diffusion Models** and **Reinforcement Learning**, with applications in **AI for Science**, particularly computational biology and molecular discovery.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research focuses on developing principled generative models and reinforcement learning methods for scientific discovery at scale.
+
+---
+
+## Experience
+
+**Stanford University — Visiting Researcher**  
+2024 – Present
+
+- Post-trained AlphaFold 3 via reinforcement learning, achieving SOTA structure fidelity.
+- Optimized large-scale drug screening with Bayesian optimization.
+
+**University of Massachusetts Amherst — Research Assistant**  
+2023
+
+- Built multi-modal retrieval system for Outside-Knowledge Visual QA.
+- Analyzed policy specialization in OLS Convex Coverage Set under varying discount factors.
+
+**Ontocord — Research Intern**  
+2023
+
+- Distilled a 7B LLM to 5× smaller size while maintaining performance.
+- Built open-source Vietnamese LLM using 1TB processed data.
+
+**EOG Resources — Software Engineer Intern**  
+2023
+
+- Built graph-based visualization tools for complex data analysis.
+- Migrated repositories to GitHub Actions with OIDC authentication.
+
+**VietAI — Research Intern**  
+2022
+
+- Developed SOTA English–Vietnamese translation model.
+- Improved biomedical NMT by +6 BLEU and released Vi-MedNLI dataset.
+
+---
+
+## Education
+
+**Stanford University**  
+Visiting Researcher  
+Advisor: Thang Luong (Google DeepMind), Jeff Glenn (Stanford Medicine)
+
+**University of Massachusetts Amherst**  
+B.S. in Computer Science, May 2024  
+Advisor: Bruno Castro da Silva
