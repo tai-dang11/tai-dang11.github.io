@@ -1,9 +1,9 @@
 metadata:
-  last_updated: '2026-02-13'
+  last_updated: '2026-02-18'
 papers:
   StnqavEAAAAJ:UeHWp8X0CEIC:
     citations: 3
-    title: Preferential Multi-Objective Bayesian Optimization for Drug Discovery
+    title: Preferential multi-objective bayesian optimization for drug discovery
     year: '2025'
   StnqavEAAAAJ:d1gkVwhDpl0C:
     citations: 15
@@ -11,13 +11,9 @@ papers:
     year: '2024'
   StnqavEAAAAJ:u-x6o8ySG0sC:
     citations: 21
-    title: 'MTet: Multi-domain translation for English and Vietnamese'
+    title: 'Mtet: Multi-domain translation for english and vietnamese'
     year: '2022'
   StnqavEAAAAJ:u5HHmVD_uO8C:
     citations: 15
     title: Enriching biomedical knowledge for low-resource language through large-scale translation
     year: '2023'
-  StnqavEAAAAJ:zYLM7Y9cAGgC:
-    citations: 0
-    title: Gathering Context that Supports Decisions via Entropy Search with Language Models
-    year: Unknown Year
