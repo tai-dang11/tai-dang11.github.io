@@ -1,19 +1,19 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-04-03'
 papers:
   StnqavEAAAAJ:UeHWp8X0CEIC:
     citations: 3
     title: Preferential multi-objective bayesian optimization for drug discovery
     year: '2025'
   StnqavEAAAAJ:d1gkVwhDpl0C:
-    citations: 15
+    citations: 16
     title: 'Aurora-m: The first open source multilingual language model red-teamed according to the us executive order'
     year: '2024'
   StnqavEAAAAJ:u-x6o8ySG0sC:
-    citations: 21
+    citations: 22
     title: 'Mtet: Multi-domain translation for english and vietnamese'
     year: '2022'
   StnqavEAAAAJ:u5HHmVD_uO8C:
-    citations: 15
+    citations: 16
     title: Enriching biomedical knowledge for low-resource language through large-scale translation
     year: '2023'
