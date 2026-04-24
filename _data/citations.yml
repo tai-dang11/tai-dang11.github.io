@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-24'
 papers:
   StnqavEAAAAJ:UeHWp8X0CEIC:
     citations: 3
@@ -14,6 +14,6 @@ papers:
     title: 'Mtet: Multi-domain translation for english and vietnamese'
     year: '2022'
   StnqavEAAAAJ:u5HHmVD_uO8C:
-    citations: 16
+    citations: 17
     title: Enriching biomedical knowledge for low-resource language through large-scale translation
     year: '2023'
