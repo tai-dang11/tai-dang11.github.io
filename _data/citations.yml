@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-19'
 papers:
   StnqavEAAAAJ:UeHWp8X0CEIC:
     citations: 5
@@ -10,7 +10,7 @@ papers:
     title: 'Aurora-m: The first open source multilingual language model red-teamed according to the us executive order'
     year: '2024'
   StnqavEAAAAJ:u-x6o8ySG0sC:
-    citations: 23
+    citations: 24
     title: 'Mtet: Multi-domain translation for english and vietnamese'
     year: '2022'
   StnqavEAAAAJ:u5HHmVD_uO8C:
