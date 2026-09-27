@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # rendered inline below so it appears before Experience
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -24,6 +24,12 @@ latest_posts:
 I am a AI Resident at Xaira working on **Generative Diffusion Models** and **Reinforcement Learning**, with applications in **AI for Science**, particularly computational biology and molecular discovery.
 
 My research focuses on developing principled generative models and reinforcement learning methods for scientific discovery at scale.
+
+---
+
+<h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit">Research</a></h2>
+
+{% include selected_papers.liquid %}
 
 ---
 
