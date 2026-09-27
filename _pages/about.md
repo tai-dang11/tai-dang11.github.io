@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
 
 selected_papers: false # rendered inline below so it appears before Experience
-social: true # includes social icons at the bottom of the page
+social: false # icons are shown under the name instead (see below)
 
 announcements:
   enabled: false # includes a list of news items
@@ -20,6 +20,8 @@ latest_posts:
 ---
 
 # Tai Dang
+
+<div class="social social-inline"><div class="contact-icons">{% social_links %}</div></div>
 
 I am a AI Resident at Xaira working on **Generative Diffusion Models** and **Reinforcement Learning**, with applications in **AI for Science**, particularly computational biology and molecular discovery.
 

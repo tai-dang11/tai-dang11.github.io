@@ -213,6 +213,37 @@ ul.task-list input[type="checkbox"] {
   .contact-note {
     font-size: 0.8rem;
   }
+
+  // Small, left-aligned icon row used under the name on the about page
+  &.social-inline {
+    text-align: left;
+    margin-bottom: 1rem;
+
+    .contact-icons {
+      font-size: 1.5rem;
+
+      a {
+        margin-right: 0.5rem;
+
+        img {
+          width: 1.4rem;
+          height: 1.4rem;
+          margin-bottom: 0;
+        }
+
+        svg {
+          width: 1.5rem;
+          height: 1.5rem;
+          margin-bottom: 0;
+
+          image {
+            width: 1.5rem;
+            height: 1.5rem;
+          }
+        }
+      }
+    }
+  }
 }
 
 .wechat-modal {
