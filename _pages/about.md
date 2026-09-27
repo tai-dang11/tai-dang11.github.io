@@ -36,7 +36,7 @@ My research focuses on developing principled generative models and reinforcement
 ---
 
 ## Experience
-**Xaira Therapeutics - AI Resident**
+**Xaira Therapeutics — AI Resident**  
 2026
 
 - De Novo Design Team
