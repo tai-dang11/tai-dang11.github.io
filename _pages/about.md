@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: Tai
 
@@ -27,7 +27,7 @@ My research focuses on developing principled generative models and reinforcement
 
 <hr style="clear: both">
 
-<h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit">Research</a></h2>
+<h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Research</a></h2>
 
 {% include selected_papers.liquid %}
 
