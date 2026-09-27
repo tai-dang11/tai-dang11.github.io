@@ -21,11 +21,11 @@ latest_posts:
 
 # Tai Dang
 
-<div class="social social-inline"><div class="contact-icons">{% social_links %}</div></div>
-
 I am a AI Resident at Xaira working on **Generative Diffusion Models** and **Reinforcement Learning**, with applications in **AI for Science**, particularly computational biology and molecular discovery.
 
 My research focuses on developing principled generative models and reinforcement learning methods for scientific discovery at scale.
+
+<div class="social social-inline"><div class="contact-icons">{% social_links %}</div></div>
 
 <hr style="clear: both">
 
