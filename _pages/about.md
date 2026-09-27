@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -21,16 +21,20 @@ latest_posts:
 
 # Tai Dang
 
-I am a researcher working on **Generative Diffusion Models** and **Reinforcement Learning**, with applications in **AI for Science**, particularly computational biology and molecular discovery.
+I am a AI Resident at Xaira working on **Generative Diffusion Models** and **Reinforcement Learning**, with applications in **AI for Science**, particularly computational biology and molecular discovery.
 
 My research focuses on developing principled generative models and reinforcement learning methods for scientific discovery at scale.
 
 ---
 
 ## Experience
+**Xaira Therapeutics - AI Resident**
+9-2026
+
+- De Novo Design Team
 
 **Stanford University — Visiting Researcher**  
-2024 – Present
+2024 – 2026
 
 - Post-trained AlphaFold 3 via reinforcement learning, achieving SOTA structure fidelity.
 - Optimized large-scale drug screening with Bayesian optimization.
