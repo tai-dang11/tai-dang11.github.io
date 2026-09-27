@@ -29,6 +29,8 @@ My research focuses on developing principled generative models and reinforcement
 
 <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Research</a></h2>
 
+<p class="text-muted"><small>* denotes equal contribution</small></p>
+
 {% include selected_papers.liquid %}
 
 ---
