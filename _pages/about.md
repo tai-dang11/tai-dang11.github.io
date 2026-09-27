@@ -25,7 +25,7 @@ I am a AI Resident at Xaira working on **Generative Diffusion Models** and **Rei
 
 My research focuses on developing principled generative models and reinforcement learning methods for scientific discovery at scale.
 
----
+<hr style="clear: both">
 
 <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit">Research</a></h2>
 
