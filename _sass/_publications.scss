@@ -82,8 +82,8 @@
         }
 
         > em {
-          font-style: italic;
-          -webkit-text-stroke: 0.2px currentColor; // slightly heavier than regular, lighter than medium (500)
+          font-style: normal;
+          -webkit-text-stroke: 0.25px currentColor; // slightly heavier than regular, lighter than medium (500)
         }
 
         > span.more-authors {
