@@ -72,11 +72,6 @@
       }
 
       .author {
-        > em {
-          font-weight: bold;
-          font-style: normal;
-        }
-
         a {
           border-bottom: 1px dashed var(--global-theme-color);
 
@@ -87,7 +82,7 @@
         }
 
         > em {
-          border-bottom: 1px solid;
+          font-weight: bold;
           font-style: normal;
         }
 
